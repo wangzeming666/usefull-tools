@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Hide videos with Chinese characters on YouTube
-// @match        https://www.youtube.com/*
+// @match        https://www.youtube.com/
 // @grant        none
 // ==/UserScript==
 
